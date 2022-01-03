@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="regression2">
+
+<test name="test1">
+
+<parameter name="url" value="https://www.homedepot.com/"></parameter>
+<classes>
+<class name="ression4.hdtest2"></class>  
+</classes>
+</test>
+
+
+
+</suite>
